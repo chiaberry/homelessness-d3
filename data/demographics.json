@@ -4,12 +4,12 @@
     "male": 6217,
     "gnc": 5,
     "transf": 36,
-    "transm": 12,
+    "transm": 12
   },
   "age": {
      "children": 0,
      "young_adult": 0,
      "adult": 0,
-     "older_adult": 0,
+     "older_adult": 0
   }
 }
